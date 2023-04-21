@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-21T12:49:09.697092100Z</date>
+  <millis>1682081349697</millis>
+  <nanos>92100</nanos>
+  <sequence>0</sequence>
+  <logger>base.Principal</logger>
+  <level>FINE</level>
+  <class>base.Principal</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>Aukera: 3</message>
+</record>
+<record>
+  <date>2023-04-21T12:49:10.126500700Z</date>
+  <millis>1682081350126</millis>
+  <nanos>500700</nanos>
+  <sequence>1</sequence>
+  <logger>base.Principal</logger>
+  <level>FINE</level>
+  <class>base.Principal</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>Aukera: 4</message>
+</record>
+<record>
+  <date>2023-04-21T12:49:10.606970900Z</date>
+  <millis>1682081350606</millis>
+  <nanos>970900</nanos>
+  <sequence>2</sequence>
+  <logger>base.Principal</logger>
+  <level>FINE</level>
+  <class>base.Principal</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>Aukera: 5</message>
+</record>
+</log>
